@@ -14,7 +14,7 @@ import java.util.List;
  * This class serves as logical connector between LearningsLogic, FlashBoxesLogic,
  * FlashCardsLogic and LearningsWindow classes. It handles their communication.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class LearningController {
 
