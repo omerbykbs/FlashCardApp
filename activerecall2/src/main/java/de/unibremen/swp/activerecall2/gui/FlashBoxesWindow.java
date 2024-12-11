@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * This class creates the Flash Boxes window of the Application.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class FlashBoxesWindow extends JFrame {
     /**
