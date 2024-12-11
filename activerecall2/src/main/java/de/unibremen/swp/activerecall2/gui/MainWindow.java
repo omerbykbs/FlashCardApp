@@ -8,7 +8,7 @@ import java.awt.*;
 /**
  * This class creates the main window of the Application.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 
 public class MainWindow extends JFrame {
