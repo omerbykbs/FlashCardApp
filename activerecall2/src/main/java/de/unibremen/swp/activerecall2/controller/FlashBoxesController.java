@@ -17,7 +17,7 @@ import java.util.List;
  * This class serves as logical connector between FlashBoxesLogic, CategoriesLogic,
  * FlashCardsLogic and FlashBoxesWindow classes. It handles their communication.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class FlashBoxesController {
 
