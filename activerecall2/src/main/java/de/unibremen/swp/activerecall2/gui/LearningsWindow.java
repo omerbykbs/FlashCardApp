@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * This class creates the Learning Window of the Application.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class LearningsWindow extends JFrame {
 
