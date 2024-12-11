@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * This class serves for all methods that reaches the database to get or write data (adding, updating, deleting, saving, loading)
  *
- * @author Ömer
+ * @author Ömer Faruk Büyükbas
  */
 public class DbService {
 
