@@ -15,7 +15,7 @@ import java.util.List;
  * LearningExercisesSelectionLogic and LearningExercisesSelectionWindow classes. It handles
  * their communication.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class LearningExercisesSelectionController {
 
