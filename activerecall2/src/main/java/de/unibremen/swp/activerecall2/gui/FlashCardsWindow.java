@@ -20,7 +20,7 @@ import java.util.Stack;
 /**
  * This class creates the Flash Cards window of the Application.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 
 public class FlashCardsWindow extends JFrame {
