@@ -6,7 +6,7 @@ import de.unibremen.swp.activerecall2.persistence.DbService;
 
 /**
  * Main class for the flash card learning program
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class FlashCardApp {
 
