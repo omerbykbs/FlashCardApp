@@ -12,7 +12,7 @@ import java.util.List;
  * This class serves as logical connector between CategoriesLogic and CategoriesWindow classes.
  * It handles their communication.
  *
- * @author Ömer Faruk Büyükbas
+ * @author Ömer Faruk Büyükbas, Oguzhan Aydin, Kamil Uyanik
  */
 public class CategoriesController {
     /**
