@@ -1,17 +1,5 @@
-# Universität Bremen  
-**FB 3 – Informatik**  
-**Tutor: Karsten Hölscher**  
-
-## Software-Projekt – WiSe 2022/23  
-**03-IBGP-SWP**  
-
 # Benutzungsdokumentation  
 **ActiveRecall2**  
-
-**Authors:**  
-- Ömer Faruk Büyükbas
-- Kamil Uyanik
-- Oguzhan Aydin
 
 ---
 
