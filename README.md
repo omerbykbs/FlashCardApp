@@ -77,9 +77,16 @@ Verlinkung zwischen Karteikarten möglich.
 **Glossary**
 Alphabetische und gefilterte Anzeige der Karteikarten.
 
+![Glossary](images/glossary.jpg)
+
 **Card Boxes**
 Karteikästen erstellen und Kategorien hinzufügen.
+
+![Card Boxes](images/cardboxes.jpg)
 
 **Learnings**
 Lernprogramme erstellen und Fortschritt verfolgen.
 
+![Learning](images/learning.jpg)
+
+![Learning](images/learning_exercise.jpg)
