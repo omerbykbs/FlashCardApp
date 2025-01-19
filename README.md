@@ -68,6 +68,12 @@ Erstellen und Bearbeiten von Kategorien über das "Categories"-Fenster.
 Karteikarten erstellen, bearbeiten, und löschen.
 Verlinkung zwischen Karteikarten möglich.
 
+![Flash Cards](images/flashcards.jpg)
+
+![Flash Cards](images/card_categorised.jpg)
+
+![Flash Cards](images/card_with_link.jpg)
+
 **Glossary**
 Alphabetische und gefilterte Anzeige der Karteikarten.
 
