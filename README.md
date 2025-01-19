@@ -54,8 +54,15 @@ Für die Installation der Software wird **Maven** verwendet.
    mvn package
 
 ## Instuktionen und Anwendung
+
+**GUI**
+
+![GUI](images/gui.jpg)
+
 **Categories**
 Erstellen und Bearbeiten von Kategorien über das "Categories"-Fenster.
+
+![Categories](images/categories.jpg)
 
 **Flash Cards**
 Karteikarten erstellen, bearbeiten, und löschen.
