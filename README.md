@@ -1,5 +1,4 @@
-# Benutzungsdokumentation  
-**ActiveRecall2**  
+# Benutzungsdokumentation
 
 ---
 
@@ -14,7 +13,7 @@
 ---
 
 ## Einführung  
-Das Programm **ActiveRecall2** realisiert ein Karteikarten-Lernprojekt. Diese Applikation wurde als Projekt im Fachbereich 03 der Universität Bremen geplant, erarbeitet und implementiert. Dieses Benutzerdokumentation beschreibt und liefert alle Informationen über die Verwendung des Programms.
+Dieses Programm realisiert ein Karteikarten-Lernprojekt. Diese Applikation wurde als Projekt im Fachbereich 03 der Universität Bremen geplant, erarbeitet und implementiert. Dieses Benutzerdokumentation beschreibt und liefert alle Informationen über die Verwendung des Programms.
 
 ---
 
